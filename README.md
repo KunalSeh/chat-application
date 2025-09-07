@@ -49,10 +49,9 @@ A modern real-time chat app built with **MERN Stack, Socket.io, TailwindCSS, and
    ```bash
    npm start
    ```
+ - Backend runs on http://localhost:5001
 
-## Backend runs on http://localhost:5001
-
-## Frontend is served in production mode via Express
+ - Frontend is served in production mode via Express
 
 ## 🌍 Deployment
 
