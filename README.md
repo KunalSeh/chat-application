@@ -1,6 +1,3 @@
-
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
 # ✨ Full Stack Realtime Chat Application ✨
 
 A modern real-time chat app built with **MERN Stack, Socket.io, TailwindCSS, and DaisyUI**.
@@ -19,6 +16,19 @@ A modern real-time chat app built with **MERN Stack, Socket.io, TailwindCSS, and
 - 📦 **Production-ready deployment** (Render) 
 
 ---
+
+## 📸 Screenshots
+
+### 🔐 Authentication Page
+![Login Page](frontend/public/login_page.png)
+![Signin Page](frontend/public/Signin_page.png)
+
+### 💬 Chat Room
+![Chat Room](frontend/public/front_page2.png)
+![Chat Room](frontend/public/front_page1.png)
+
+### 👤 Profile Page
+![Profile Page](frontend/public/profile.png)
 
 ## ⚙️ Setup
 
