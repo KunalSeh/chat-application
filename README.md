@@ -40,9 +40,7 @@ A modern real-time chat app built with **MERN Stack, Socket.io, TailwindCSS, and
 
 ## 🛠 Build the App
    npm run build
-
-
-##This will install dependencies for both backend & frontend and build the React app.
+   This will install dependencies for both backend & frontend and build the React app.
 
 ## ▶️ Start the App
    npm start
