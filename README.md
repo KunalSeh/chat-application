@@ -38,22 +38,21 @@ A modern real-time chat app built with **MERN Stack, Socket.io, TailwindCSS, and
 
    NODE_ENV=development
 
+## 🛠 Build the App
+   npm run build
 
-🛠 Build the App
-  npm run build
 
+##This will install dependencies for both backend & frontend and build the React app.
 
-This will install dependencies for both backend & frontend and build the React app.
-
-▶️ Start the App
+## ▶️ Start the App
    npm start
 
 
-Backend runs on http://localhost:5001
+## Backend runs on http://localhost:5001
 
-Frontend is served in production mode via Express
+## Frontend is served in production mode via Express
 
-🌍 Deployment
+## 🌍 Deployment
 
-Backend + Frontend can be deployed on Render (single service).
+   Backend + Frontend can be deployed on Render (single service).
 
