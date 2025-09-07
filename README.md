@@ -28,6 +28,7 @@ A modern real-time chat app built with **MERN Stack, Socket.io, TailwindCSS, and
    cd chat-application
 
 2. Create a .env file in the backend folder
+   ```env
    MONGODB_URI=your_mongodb_connection_string
    PORT=5001
    JWT_SECRET=your_secret_key
@@ -39,12 +40,15 @@ A modern real-time chat app built with **MERN Stack, Socket.io, TailwindCSS, and
    NODE_ENV=development
 
 ## 🛠 Build the App
+   ```bash
    npm run build
-   This will install dependencies for both backend & frontend and build the React app.
-
+  ```
+  This will install dependencies for both backend & frontend and build the React app.
+  
 ## ▶️ Start the App
+   ```bash
    npm start
-
+   ```
 
 ## Backend runs on http://localhost:5001
 
